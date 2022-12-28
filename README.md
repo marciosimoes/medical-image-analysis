@@ -33,7 +33,7 @@ Final Part II Report, delivered at MS877 Course in the 1S 2020:
 - [A-weighted ensemble application in the classification of texture images](https://www.ime.unicamp.br/~mac/db/2020-1S-183360.pdf)
 <br>
 
-*Mentor: Prof. Dr. João Batista Florindo*
+*Mentor: [Prof. Dr. João Batista Florindo](https://bv.fapesp.br/pt/pesquisador/67253/joao-batista-florindo)*
 
 ### Technologies used:
 
